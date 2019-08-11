@@ -1,0 +1,57 @@
+Sublime Text
+===========
+http://cursos.ismweb.com.br/blog/ler/download-sublime-text-para-varios-sistema-operacionais
+
+link composer
+=============
+https://getcomposer.org/download/
+
+Comando para instalar CI pelo composer
+======================================
+composer create-project bcit-ci/codeigniter loja_virtual --prefer-dist
+
+Template Admin LTE
+=================
+https://github.com/almasaeed2010/AdminLTE
+
+Ebook ismweb
+============
+http://cursos.ismweb.com.br/blog/ler/ebook-codeigniter-conceitos-basico-e-intermediario
+
+
+Dicas de plugins para Sublime Text
+==================================
+http://cursos.ismweb.com.br/blog/ler/dicas-de-plugins-para-sublime-text
+
+Instalar um servidor PHP e MySql Local
+=====================================
+http://cursos.ismweb.com.br/blog/ler/instalando-um-servidor-php-com-my-sql-em-sua-maquina-local
+
+Link para ion-auth
+==================
+http://benedmunds.com/ion_auth/
+
+links icones
+============
+https://fontawesome.bootstrapcheatsheets.com/
+
+tradução CI
+===========
+https://github.com/CIBr/CodeIgniter-Portuguese-BR
+
+Jquery Mask Plugin
+==================
+https://igorescobar.github.io/jQuery-Mask-Plugin/
+
+
+
+
+
+
+
+
+
+
+
+
+
